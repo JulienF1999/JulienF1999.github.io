@@ -38,7 +38,7 @@ cv:
         studyType: Bachelor of Arts
         start_date: 04/2022
         end_date: 09/2026
-        highlights:
+        highlights: []
 
       - institution: University of Stuttgart
         location: Stuttgart, Germany
@@ -67,7 +67,7 @@ cv:
         start_date: 10/2026
         end_date: today
         summary: Researching and Teaching Position at the KIT Department of Computer Science
-        highlights:
+        highlights: []
  
       #- company: Institute for Advanced Study, Princeton University
       #  position: Professor of Theoretical Physics
@@ -151,4 +151,3 @@ cv:
     #  - name: Professor John Doe
     #    icon: fa-solid fa-laptop
     #    reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
