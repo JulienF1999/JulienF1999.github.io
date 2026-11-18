@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Commencement of employment at KIT 
+Commencement of employment at KIT

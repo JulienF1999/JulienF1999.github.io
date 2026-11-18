@@ -68,7 +68,7 @@ cv:
         end_date: today
         summary: Researching and Teaching Position at the KIT Department of Computer Science
         highlights: []
- 
+
       #- company: Institute for Advanced Study, Princeton University
       #  position: Professor of Theoretical Physics
       #  location: Princeton University, NJ
@@ -108,7 +108,6 @@ cv:
     #    url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
     #    summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-
     Skills:
       - name: Latex
         level: Proficient
@@ -118,7 +117,7 @@ cv:
       - name: Matlab
         level: Advanced
         icon: fa-solid fa-hashtag
-        keywords: "Coding for maths-related problems."        
+        keywords: "Coding for maths-related problems."
 
     Languages:
       - name: German
