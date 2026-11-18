@@ -17,9 +17,9 @@ cv:
   address:
     street: Campus Süd Building 50.34, Am Fasanengarten 5
     city: Karlsruhe
-    region: California
+    region: Baden-Württemberg
     postalCode: 76131
-    countryCode: #US
+    countryCode: DE
 
   sections:
     Education:
