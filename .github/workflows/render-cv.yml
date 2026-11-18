@@ -22,11 +22,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      
+
       # Wir fügen Ruby hier fest ein, damit es die Version 3.3 nutzt
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
+          ruby-version: "3.3"
 
       - uses: actions/setup-python@v7
         with:
